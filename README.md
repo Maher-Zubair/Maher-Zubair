@@ -1,7 +1,7 @@
 <h1 align="center">𝙃𝙚𝙡𝙡𝙤 𝙂𝙚𝙚𝙠𝙨, 𝙏𝙝𝙞𝙨 𝙄𝙨 𝙈𝙖𝙝𝙚𝙧 𝙕𝙪𝙗𝙖𝙞𝙧</h1>
 <h3 align="center">𝘈 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maher-zubair&label=Profile%20views&color=0e75b6&style=flat" alt="maher-zubair"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maher-zubair&label=Profile%20views&color=0e75b6&style=flat" alt="maher-zubair" /> </p>
 
 <p align="left"> <a href="https://github.com/Maher-Zubair"><img src="https://github-profile-trophy.vercel.app/?username=Maher-Zubair&theme=dark_lover" alt="Maher-Zubair" /></a> </p>
 
