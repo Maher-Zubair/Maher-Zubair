@@ -27,9 +27,9 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maher-Zubair&layout=compact&theme=dark" alt=Maher-Zubair />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maher-Zubair&show_icons=true&locale=en&theme=dark" alt="Maher-Zubair GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maher-Zubair&theme=dark" alt="Maher-Zubair GitHub Streak Stats" />
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -37,5 +37,5 @@
 <a href="https://github.com/Maher-Zubair">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maher-Zubair&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maher-Zubair&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maher-Zubair&theme=dark" height="180em" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maher-Zubair&theme=dark" alt="Maher-Zubair GitHub Streak Stats" />
 </div>
