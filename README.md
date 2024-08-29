@@ -17,7 +17,7 @@
 [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InnoxentTech?sub_confirmation=1)
 
 - [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mz_zubi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubi@maher-zubair.tech)
+[![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@maher-zubair.xyz)
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/maher_zubair)
 
